@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Oklahoma City, OK Metro Area, US
 
-> Free BeamStation sample export with 71 rows and masked direct-contact fields.
+> Free BeamStation sample export with 33 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `519060` |
 | Location | Oklahoma City, OK |
 | Category | Restaurants |
-| Full dataset size | 711 records |
-| Free sample size | 71 records (9.99%) |
-| Last export | 2026-04-15T02:28:54.321232+00:00 |
+| Full dataset size | 338 records |
+| Free sample size | 33 records (9.76%) |
+| Last export | 2026-04-22T07:34:45.688896+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-oklahoma-city-ok-metro-area-us-sample-519060/releases/download/sample-latest/beamstation_519060_restaurants-us-oklahomacityok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
