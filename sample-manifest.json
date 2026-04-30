@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ce673f3a-1680-4b13-8bd4-7261186a9640",
+  "export_job_id": "bc3be9db-73ec-4d36-9cb6-78ec4fe86de3",
   "id_short": 519060,
-  "published_at": "2026-04-22T19:51:08Z",
+  "published_at": "2026-04-30T07:33:28Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-oklahoma-city-ok-metro-area-us-sample-519060",
   "sample_asset_name": "beamstation_519060_restaurants-us-oklahomacityok_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/519060/beamstation_519060_restaurants-us-oklahomacityok_SAMPLE_DIST.csv",
-  "sample_records": 33,
-  "sample_sha256": "00b43ffee11f879faba718fa12a430a3d4e80cf2684fb80386e8d5332a4f7b84",
-  "sample_size_bytes": 144342,
-  "total_records": 338
+  "sample_records": 74,
+  "sample_sha256": "4eeb0c3963e17381256ef9f90a5b351a2fa2bc2c1afb409b9dd466a57e62bacb",
+  "sample_size_bytes": 296984,
+  "total_records": 749
 }
